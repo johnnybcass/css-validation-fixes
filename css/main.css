@@ -1,0 +1,14 @@
+body {
+    background-color: #ccc;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 1.5rem;
+	background-color: #ccc;
+}
+
+article {
+	font-style: italic;
+	color: #666;
+}
